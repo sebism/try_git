@@ -1,1 +1,1 @@
-test
+test a merge change in a text file
